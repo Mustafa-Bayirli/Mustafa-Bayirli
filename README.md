@@ -1,6 +1,23 @@
 # 💫 About Me:
 Hi 👋, I'm Mustafa Bayirli<br>A passionate Computer Engineer from Canada
 
+🛠️ Technical Skills
+Hardware Description & Verification Languages
+https://img.shields.io/badge/SystemVerilog-%2523DAE8FC.svg?style=for-the-badge&logo=systemverilog&logoColor=black
+https://img.shields.io/badge/Verilog-%2523C2B9B0.svg?style=for-the-badge&logo=verilog&logoColor=black
+https://img.shields.io/badge/VHDL-%2523007CAC.svg?style=for-the-badge&logo=vhdl&logoColor=white
+https://img.shields.io/badge/UVM-Functional%2520Verification-8A2BE2?style=for-the-badge
+
+FPGA & ASIC Tools
+https://img.shields.io/badge/Intel%2520Quartus-%2523A9A9A9.svg?style=for-the-badge&logo=intel&logoColor=white
+https://img.shields.io/badge/Xilinx%2520Vivado-%2523E01F27.svg?style=for-the-badge&logo=xilinx&logoColor=white
+https://img.shields.io/badge/ModelSim-%2523FF0000.svg?style=for-the-badge&logo=mentor&logoColor=white
+https://img.shields.io/badge/EDA%2520Playground-%2523000000.svg?style=for-the-badge&logo=databricks&logoColor=white
+
+PCB Design & CAD
+
+
+
 
 ### 🛠️ Technical Skills
 
