@@ -5,7 +5,7 @@ Hi 👋, I'm Mustafa Bayirli<br>A passionate Computer Engineer from Canada
 # 🛠️ 💻  Technical Skills - Tech Stack:
 
 
-### **Hardware Description & Verification Languages**
+### *Hardware Description & Verification Languages*
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%23DAE8FC.svg?style=for-the-badge&logo=systemverilog&logoColor=black)
 ![Verilog](https://img.shields.io/badge/Verilog-%23C2B9B0.svg?style=for-the-badge&logo=verilog&logoColor=black)
 ![VHDL](https://img.shields.io/badge/VHDL-%23007CAC.svg?style=for-the-badge&logo=vhdl&logoColor=white)
@@ -21,7 +21,7 @@ Hi 👋, I'm Mustafa Bayirli<br>A passionate Computer Engineer from Canada
 ![RISC-V](https://img.shields.io/badge/RISC--V-ISA-000000?style=for-the-badge&logo=riscv&logoColor=white)
 
 
-#### **FPGA & ASIC Tools**
+### **FPGA & ASIC Tools**
 ![Intel Quartus](https://img.shields.io/badge/Intel%20Quartus-%23A9A9A9.svg?style=for-the-badge&logo=intel&logoColor=white)
 ![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-%23E01F27.svg?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Questa Sim](https://img.shields.io/badge/Questa%20Sim-Mentor%20Graphics-FF0000?style=for-the-badge&logo=mentor&logoColor=white)
@@ -37,7 +37,7 @@ Hi 👋, I'm Mustafa Bayirli<br>A passionate Computer Engineer from Canada
 ![Siemens PADS](https://img.shields.io/badge/Siemens%20PADS-%230099FF.svg?style=for-the-badge&logo=siemens&logoColor=white)
 
 
-#### **Protocols & Interfaces**
+### **Protocols & Interfaces**
 ![Ethernet](https://img.shields.io/badge/Ethernet-L2/L3%20Networking-8A2BE2?style=for-the-badge)
 ![IP Protocol](https://img.shields.io/badge/IP%20Protocol-Internet%20Layer-8A2BE2?style=for-the-badge)
 ![UDP](https://img.shields.io/badge/UDP-Transport%20Layer-8A2BE2?style=for-the-badge)
